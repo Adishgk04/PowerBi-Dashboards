@@ -1,0 +1,4 @@
+## Project Overview
+This project presents an end-to-end analytical workflow exploring mental health–related narratives to understand how key life stressors — career pressure, relationship strain, and hopelessness — correlate with emotional intensity and distress severity in user-generated content.
+
+Using NLP-driven feature engineering, temporal analysis, and interactive Power BI dashboards, the project highlights recurring behavioral patterns such as time-of-day distress trends and the escalation of emotional expression with increasing severity levels.
